@@ -1,5 +1,28 @@
 
 .collapsible {
-    height: 400px;
     background-color: #f6f1e7;
+}
+
+.collapsible hr {
+    margin: 0 20px;
+}
+
+details {
+    padding: 20px;
+}
+
+details > summary {
+    color: #6ec1e4;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+  
+details > p {
+    padding: 40px 0;
+    font-size: 24px;
+}
+
+details[open] summary {
+    color: limegreen;
 }

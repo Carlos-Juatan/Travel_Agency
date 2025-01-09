@@ -169,7 +169,30 @@ header {
 
 .collapsible {
   background-color: #f6f1e7;
-  height: 400px;
+}
+
+.collapsible hr {
+  margin: 0 20px;
+}
+
+details {
+  padding: 20px;
+}
+
+details > summary {
+  color: #6ec1e4;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+details > p {
+  padding: 40px 0;
+  font-size: 24px;
+}
+
+details[open] summary {
+  color: #32cd32;
 }
 
 footer {
