@@ -1,0 +1,36 @@
+/*
+.middle-banner {
+    background-color: #f6f1e7;
+}
+*/
+
+.middle-banner img {
+    width: 100%;
+}
+
+.banner-icons-content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0 30px;
+    padding: 0 30px;
+    margin-top: -60;
+}
+
+.banner-icons {
+    background-color: #e6e6e6;
+    text-align: center;
+    border-radius: 50px 50px 0 0;
+}
+
+.banner-icons img {
+    width: 80px;
+}
+
+.banner-icons h1, p {
+    margin-top: 30px;
+}
+
+.banner-icons h1 {
+    color: #6ec1e4;
+    font-weight: 700;
+}

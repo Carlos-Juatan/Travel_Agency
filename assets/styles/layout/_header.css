@@ -3,13 +3,13 @@ header {
     position: relative; /* Posiciona o header como referência para outros elementos */
 }
 
-.banner {
+.Footer-banner {
     width: 100%;
     height: 500px; /* Ajuste a altura conforme necessário */
     overflow: hidden;
 }
 
-.banner img {
+.Footer-banner img {
     width: 100%;
     height: 100%;
     object-fit: cover; /* Escala a imagem para cobrir toda a área */
