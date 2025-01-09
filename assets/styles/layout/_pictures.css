@@ -1,0 +1,21 @@
+
+.pictures {
+    background-color: #f6f1e7;
+}
+
+.pictures-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.pictures img, .pictures h1, .pictures p {
+    justify-self: center;
+    padding: 20px 0;
+}
+
+.pictures h1 {
+    color: #ceca16;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 3.6;
+}

@@ -1,0 +1,17 @@
+
+footer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: black;
+    color: white;
+}
+
+.footer-div > * {
+    margin: 40px;
+}
+
+.footer-div li {
+    margin-left: 30px;
+    color: gray;
+    padding: 2px;
+}

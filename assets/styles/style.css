@@ -1,9 +1,8 @@
 @import 'layout/_header.css';
 @import 'layout/_introduction.css';
 @import 'layout/_banner.css';
-@import 'layout/_icons.css';
-@import 'layout/_collapsible.css';
 @import 'layout/_pictures.css';
+@import 'layout/_collapsible.css';
 @import 'layout/_footer.css';
 
 * {

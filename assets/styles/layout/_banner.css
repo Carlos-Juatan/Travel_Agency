@@ -1,8 +1,9 @@
-/*
+
 .middle-banner {
-    background-color: #f6f1e7;
+    /*background-color: #f6f1e7;*/
+    margin-bottom: 20px;
 }
-*/
+
 
 .middle-banner img {
     width: 100%;
@@ -26,11 +27,12 @@
     width: 80px;
 }
 
-.banner-icons h1, p {
-    margin-top: 30px;
-}
-
 .banner-icons h1 {
     color: #6ec1e4;
     font-weight: 700;
+    margin-top: 30px;
+}
+
+.banner-icons p {
+    margin-top: 30px;
 }
