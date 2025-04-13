@@ -167,8 +167,13 @@ header {
   font-weight: 700;
 }
 
+.pictures p, .pictures h1 {
+  margin-left: 50px;
+}
+
 .collapsible {
   background-color: #f6f1e7;
+  padding-left: 50px;
 }
 
 .collapsible hr {
