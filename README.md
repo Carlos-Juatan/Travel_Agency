@@ -70,7 +70,7 @@ To view this project locally, follow these steps:
 
 ## Author
 
-This "Justly" project was developed by Carlos Juatan as an educational project.
+This "Travel_Agency" project was developed by Carlos Juatan as an educational project.
 
 You can find more of my projects and contributions on my GitHub profile: https://github.com/Carlos-Juatan/
 
